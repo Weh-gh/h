@@ -1,8 +1,9 @@
 #include <stdio.h>
-#include "hello.h"
- 
+#include <stdlib.h>
+
 int main() {
-    printf("Main program");
-    hello();
+
+    printf("test");
+
     return 0;
 }
