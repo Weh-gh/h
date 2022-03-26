@@ -1,4 +1,4 @@
 H, A header file is a file with extension (.h)
-==========
+==============================================
 
 You need to know what a header file is, it is a file that contains function declarations and macro definitions to be set among several files, and the extension (.h) of this file indicates the header file H There are two types of header files the first is the one that comes with your compiler or with you.
