@@ -1,7 +1,6 @@
 #ifndef header
-int square(int n) 
-{
-	return(n*n);
-}
+
+	int number = 9;
+
 #define header
 #endif
