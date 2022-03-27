@@ -4,7 +4,6 @@
 
 int main() 
 {
-	
 	printf("My lucky number: %d", number);
 	
 	return 0;
