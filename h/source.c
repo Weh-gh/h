@@ -2,7 +2,7 @@
 #include "header.h"
 #include "header2.h"
 
-int main() 
+int main()
 {
 	printf("My lucky number: %d", number);
 	
